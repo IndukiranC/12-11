@@ -36,7 +36,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.cart.ShoppingCart</mainClass>
+                            <mainClass>com.example.shoppingcart.ShoppingCart</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
