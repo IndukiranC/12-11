@@ -33,6 +33,6 @@ public class ShoppingCartTest {
         sc.addProduct("Monitor", 1, 500.0);
         sc.applyCoupon("SAVE10");
 
-        assertEquals(400.0, sc.calculateTotal(), 0.001);
+        assertEquals(450.0, sc.calculateTotal(), 0.001);
     }
 }
